@@ -109,6 +109,7 @@ Y_prediction VALUE:
 
 ACCURACY VALUE:
 
+
 ![image](https://github.com/Tharun-1000/Implementation-of-SVM-For-Spam-Mail-Detection/assets/135952958/ae35226e-d69a-4bb2-af3d-92b3375bbf3a)
 
 
